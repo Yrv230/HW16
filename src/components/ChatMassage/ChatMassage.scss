@@ -1,0 +1,17 @@
+.massage {
+    padding: 10px 0 0 10px;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+
+    &__content {
+        width: 302px;
+        background: #C4BFFF;
+        border-radius: 15px 15px 15px 0px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+        padding: 5px 5px 5px 10px;
+    }
+}
